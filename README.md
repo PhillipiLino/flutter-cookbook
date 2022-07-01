@@ -1,4 +1,4 @@
-# Flutter
+# Mobile
 
 ## **Configurando o Flutter**
 ------
@@ -153,3 +153,8 @@
 
 <br/>
 
+- Mais comandos aqui: `https://docs.flutter.dev/reference/flutter-cli`
+
+<br/>
+
+## **Perguntas frequentes**
